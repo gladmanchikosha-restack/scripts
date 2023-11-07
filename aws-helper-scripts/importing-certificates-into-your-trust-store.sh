@@ -1,3 +1,4 @@
+#!/bin/bash
 # The following is a sample shell script that imports the certificate bundle into a trust store on a Linux operating system.
 mydir=tmp/certs
 if [ ! -e "${mydir}" ]
